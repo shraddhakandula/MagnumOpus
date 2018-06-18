@@ -1,4 +1,4 @@
-package com.ts.dto;
+package com.mo.dto;
 
 public class Customer {
 	private String id;

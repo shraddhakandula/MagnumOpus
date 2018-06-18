@@ -1,4 +1,4 @@
-package com.ts.dto;
+package com.mo.dto;
 
 public class Incharge {
 private String id;

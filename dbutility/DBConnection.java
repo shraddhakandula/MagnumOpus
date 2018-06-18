@@ -1,4 +1,4 @@
-package com.ts.dbutility;
+package com.mo.dbutility;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

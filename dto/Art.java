@@ -1,4 +1,4 @@
-package com.ts.dto;
+package com.mo.dto;
 
 public class Art {
 private int id;

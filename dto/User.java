@@ -1,4 +1,4 @@
-package com.ts.dto;
+package com.mo.dto;
 
 public class User {
 private String id;

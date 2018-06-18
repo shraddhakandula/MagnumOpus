@@ -1,4 +1,4 @@
-package com.ts.dao;
+package com.mo.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.ts.dbutility.DBConnection;
-import com.ts.dto.User;
+import com.mo.dbutility.DBConnection;
+import com.mo.dto.User;
 
 public class UserDAO {
 	
